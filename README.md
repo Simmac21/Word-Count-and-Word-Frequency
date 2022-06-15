@@ -21,4 +21,5 @@ The dictionary is used to find the number of misspelled words in the novel.
 For this program, two dictionaries were created.
 
 • The first is an ArrayList<BookWord>. Once all of the dictionary has been saved in the ArrayList, the Collections.sort method was used to sort it.
-• The second is a SimpleHashSet<BookWord>.
+
+  • The second is a SimpleHashSet<BookWord>.
